@@ -1,1 +1,1 @@
-# boku.github.io
+link:https://onicube.github.io/boku/
